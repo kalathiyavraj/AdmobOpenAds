@@ -1,0 +1,3 @@
+include ':vrajAdmobOpenAds'
+include ':app'
+rootProject.name = "AdmobOpenAdsLibrary"
